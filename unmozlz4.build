@@ -1,0 +1,4 @@
+-I..\snippets
+
+unmozlz4.c
+..\snippets\bvlz4.c
